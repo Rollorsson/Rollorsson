@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="file:///C:/Users/Rollorsson/Desktop/matrix-code-rain-v0.3-downpour-mode.gif" width="100%" alt="Matrix Rain">
+  <img src="[file:///C:/Users/Rollorsson/Desktop/matrix-code-rain-v0.3-downpour-mode.gif](https://github.com/coding418/matrix-code-rain/blob/main/img/matrix-code-rain-v0.3-downpour-mode.gif)" width="100%" alt="Matrix Rain">
 </p>
 
 <h1 align="center" style="color: #00ff00; background: #000; font-family: monospace;">Nicolás Gaspari</h1>
